@@ -1,0 +1,6 @@
+{
+  "name": "MapMyMoney",
+  "description": "Intelligent Financial Operating System for India's young workforce (Students, Gig Workers, First-Time Earners). Features unified UPI cash flow tracking, custom readiness pulse scoring, government benefit matching, life event simulation, and AI financial coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
